@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+
+.w3-container,
+.w3-panel {
+    padding: 4.01em 16px;
+}
+
+.card {
+    --bs-card-border-width: 1px;
+    --bs-card-border-color: rgb(0 0 0);
+    background-color: #f1f1f1;
+}
